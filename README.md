@@ -1,3 +1,3 @@
 
-![frog](frog.gif)
-<p> <img src="https://komarev.com/ghpvc/?username=christhefrog&label=Views&color=a3a3a3&style=flat-square" alt="christhefrog" /> </p>
+<!-- ![summary](https://github-readme-stats.vercel.app/api?username=christhefrog&show-icons=true&theme=dracula&hide=contribs) -->
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christhefrog&hide=holyc&theme=dracula&layout=compact)
